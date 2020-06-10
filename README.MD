@@ -2,6 +2,6 @@
 Visualize each pair of features of Iris Data.
 It serves for Feature Selection in Classification Problem.
 
-Language: JavaFXa
+Language: JavaFX
 
 You need JDK version 1.8 to build the program.
